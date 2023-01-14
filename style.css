@@ -1,0 +1,269 @@
+@import url("https://fonts.googleapis.com/css2?family=Imprima&display=swap");
+
+/****** Custom variables *******/
+
+:root {
+  --primary_clr: rgb(66, 66, 66);
+  --accent_clr: cyan;
+  --my_white: #f0f4ff;
+  --my_black: #333;
+  --my_gradient: linear-gradient(90deg, #156edf 0%, #34b5d8 100%);
+
+  --fs_primary_heading: 2.5rem;
+  --fs_secondary_heading: 1.875rem;
+}
+
+/****** CSS reset *******/
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  font-size: 1.3rem;
+  font-family: "Imprima", sans-serif;
+  color: var(--my_black);
+  background: var(--my_white);
+}
+
+img,
+picture,
+svg {
+  max-width: 100%;
+  display: block;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/****** Utility Classes *******/
+
+/* buttons,containers,lists etc */
+
+.container {
+  width: min(1200px, 100% - 2rem);
+  margin-inline: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  font-weight: bold;
+  background: var(--my_gradient);
+  color: white;
+  padding: 0.25rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1.125em 1em -1em var(--clr-accent-500);
+}
+
+.btn:hover,
+.btn:focus-visible {
+  background-color: var(--clr-accent);
+  box-shadow: none;
+}
+
+/* header */
+
+header {
+  position: fixed;
+  width: 100%;
+  padding: 1.5rem 0.5rem;
+  transition: all 0.3s ease;
+  z-index: 2;
+}
+
+.sticky {
+  background: linear-gradient(45deg, #8aa6f5, #7cd4f8);
+  padding: 0.5rem;
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo span {
+  color: #34b4ff;
+}
+
+/* .logo img {
+  height: 3rem;
+} */
+
+nav ul,
+.sign-options {
+  display: flex;
+  gap: 1rem;
+}
+
+nav li {
+  cursor: pointer;
+  font-size: 1.3rem;
+}
+
+.sign-options a {
+  font-weight: bold;
+  background: var(--my_gradient);
+  color: white;
+  padding: 0.25rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.hamburger-menu {
+  position: relative;
+  z-index: 99;
+  width: 2rem;
+  height: 2rem;
+  margin: 1em;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  display: none;
+}
+
+.hamburger-menu .bar {
+  position: relative;
+  width: 100%;
+  height: 3px;
+  background-color: black;
+  border-radius: 3px;
+  transition: all 0.5s ease 0s;
+}
+
+.bar::before,
+.bar::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  border-radius: 3px;
+  transition: all 0.5s ease 0s;
+}
+
+.bar::before {
+  transform: translateY(-8px);
+}
+
+.bar::after {
+  transform: translateY(8px);
+}
+
+header.active .hamburger-menu .bar {
+  background-color: transparent;
+}
+
+header.active .bar::before {
+  transform: translateY(0px) rotate(-45deg);
+}
+
+header.active .bar::after {
+  transform: translateY(0px) rotate(45deg);
+}
+
+/* hero section */
+
+.hero {
+  padding-top: 8rem;
+  flex-wrap: wrap;
+}
+
+.hero-content {
+  width: min(35rem, 100%);
+}
+
+.hero-text {
+  font-size: clamp(2rem, 0.8333rem + 5.3333vw, 4.5rem);
+  line-height: 1.2;
+}
+
+.hero-content p {
+  margin: 2rem 0 1rem;
+}
+
+.hero img {
+  width: min(30rem, 100%);
+}
+
+/* Media Queries */
+
+@media (max-width: 1000px) {
+  .logo {
+    margin-left: 7vw;
+  }
+  .hamburger-menu {
+    display: flex;
+  }
+  .menu-list {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    max-width: 400px;
+    right: -125%;
+    top: 0px;
+    padding: 4rem;
+    text-align: center;
+    background: linear-gradient(45deg, rgb(80, 252, 255), rgb(117, 92, 255));
+    transition: all 0.5s ease 0s;
+  }
+  header.active .menu-list {
+    right: 0%;
+  }
+  .sign-options {
+    position: fixed;
+    width: 100%;
+    justify-content: center;
+    max-width: 400px;
+    bottom: 0px;
+    right: -125%;
+    transition: all 0.5s ease 0s;
+  }
+  .sign-options a {
+    margin: 1rem 0.5rem 8rem;
+  }
+  header.active .sign-options {
+    right: 0px;
+  }
+  .menu-list li {
+    margin-top: 2rem;
+  }
+  .menu-list li a {
+    font-size: 23px;
+    margin-left: -100%;
+  }
+  header.active .menu-list li a {
+    margin-left: 0px;
+  }
+  header.active ul {
+    flex-direction: column;
+  }
+
+  .hero {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 550px) {
+  .logo {
+    margin-left: 0;
+  }
+}
