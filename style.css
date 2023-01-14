@@ -318,37 +318,6 @@ header.active .bar::after {
 
 /* slider section */
 
-.swiper-navBtn {
-  color: black;
-  transition: color 0.3s ease;
-}
-
-.swiper-navBtn:hover {
-  color: black;
-}
-
-.swiper-navBtn::before,
-.swiper-navBtn::after {
-  font-size: 35px;
-}
-
-.swiper-button-next {
-  right: 0;
-}
-
-.swiper-button-prev {
-  left: 0;
-}
-
-.swiper-pagination-bullet {
-  background-color: black;
-  opacity: 1;
-}
-
-.swiper-pagination-bullet-active {
-  background-color: black;
-}
-
 /* Footer section */
 
 footer {
@@ -484,6 +453,11 @@ footer .btn {
 
   .banner-2 .container {
     gap: 3rem;
+  }
+
+  .footer-wrapper {
+    justify-content: flex-start;
+    gap: 1rem;
   }
 }
 @media (max-width: 550px) {
