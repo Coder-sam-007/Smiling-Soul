@@ -155,9 +155,13 @@ header.active .bar::before {
 header.active .bar::after {
   transform: translateY(0px) rotate(45deg);
 }
+
+/* hero section */
+
 .hero {
   padding-top: 8rem;
   flex-wrap: wrap;
+  height: 100vh;
 }
 .hero-content {
   width: min(35rem, 100%);
@@ -310,6 +314,114 @@ header.active .bar::after {
 
 .help-section .btn {
   font-size: 1.5rem;
+}
+
+/* slider section */
+
+.swiper-navBtn {
+  color: black;
+  transition: color 0.3s ease;
+}
+
+.swiper-navBtn:hover {
+  color: black;
+}
+
+.swiper-navBtn::before,
+.swiper-navBtn::after {
+  font-size: 35px;
+}
+
+.swiper-button-next {
+  right: 0;
+}
+
+.swiper-button-prev {
+  left: 0;
+}
+
+.swiper-pagination-bullet {
+  background-color: black;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: black;
+}
+
+/* Footer section */
+
+footer {
+  color: white;
+  background: var(--my_gradient);
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-block: 2rem 0.5rem;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.social-section {
+  max-width: 25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.social-media {
+  display: flex;
+  gap: 1rem;
+  justify-content: start;
+}
+
+.footer-heading {
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.copyright-section {
+  display: flex;
+  justify-content: space-between;
+  /* padding-inline: 3rem; */
+  padding-block: 1rem;
+  /* background: linear-gradient(45deg, #1f1ede, #dadada1c); */
+  border-top: 2px solid white;
+}
+
+.quick-links a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.3rem;
+  line-height: 1.4;
+}
+
+.subscribe-section input {
+  padding: 0.5rem;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+  margin: 0.5rem;
+  width: 100%;
+}
+
+.subscribe-section input::placeholder {
+  color: rgba(255, 255, 255, 0.811);
+  font-size: 1rem;
+}
+
+footer .btn {
+  font-size: 1.5rem;
+  margin: 0.5rem auto;
+}
+
+.social-media li {
+  font-size: 2rem;
+  padding: 0.2rem 1rem;
+  background: #ffffff3b;
+  border-radius: 0.5rem;
 }
 
 @media (max-width: 1000px) {
