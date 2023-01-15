@@ -318,6 +318,36 @@ header.active .bar::after {
 
 /* slider section */
 
+.slider-section {
+  width: min(1200px, 100% - 2rem);
+  margin-inline: auto;
+}
+
+.swiper {
+  padding: 1rem;
+  margin: 2rem auto;
+}
+
+.fuck {
+  margin-inline: 2rem;
+  padding-inline: 2rem;
+}
+
+.swiper-slide {
+  padding: 1rem;
+  background: var(--my_gradient);
+  border-radius: 0.5rem;
+}
+
+.swiper-wrapper {
+  padding-block: 3rem;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  z-index: 1000;
+}
+
 /* Footer section */
 
 footer {

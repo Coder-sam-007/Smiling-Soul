@@ -17,13 +17,17 @@ links.forEach((link) =>
   link.addEventListener("click", () => header.classList.remove("active"))
 );
 
-let swiper = new Swiper(".slide-content", {
-  slidesPerView: 3,
+let swiper = new Swiper(".swiper", {
+  slidesPerView: 4,
   spaceBetween: 25,
+  speed: 600,
   loop: true,
   centerSlide: "true",
   fade: "true",
   grabCursor: "true",
+  autoplay: {
+    delay: 3000,
+  },
   pagination: {
     el: ".swiper-pagination",
     clickable: true,
@@ -43,6 +47,9 @@ let swiper = new Swiper(".slide-content", {
     },
     950: {
       slidesPerView: 3,
+    },
+    1100: {
+      slidesPerView: 4,
     },
   },
 });
