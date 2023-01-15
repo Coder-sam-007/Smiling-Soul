@@ -17,9 +17,9 @@ links.forEach((link) =>
   link.addEventListener("click", () => header.classList.remove("active"))
 );
 
-let swiper = new Swiper(".swiper", {
+let swiper = new Swiper(".swipo", {
   slidesPerView: 4,
-  spaceBetween: 25,
+  spaceBetween: 20,
   speed: 600,
   loop: true,
   centerSlide: "true",
