@@ -3,13 +3,13 @@
 /****** Custom variables *******/
 
 :root {
-  --primary_clr: rgb(66, 66, 66);
-  --accent_clr: cyan;
+  --clr-accent: #8229dc;
   --my_white: #f0f4ff;
   --my_black: #333;
-  --my_gradient: linear-gradient(90deg, #156edf 0%, #34b5d8 100%);
-  --fs_primary_heading: 2.5rem;
-  --fs_secondary_heading: 1.875rem;
+  --my_gradient: linear-gradient(45deg, rgb(138, 166, 245), rgb(124, 212, 248));
+  --my_gradient2: linear-gradient(45deg, rgb(125 99 255), rgb(59 166 238));
+
+  /* --my_gradient2: linear-gradient(45deg, rgb(156, 39, 176), rgb(244, 191, 61)); */
 }
 
 /* CSS RESET */
@@ -61,12 +61,12 @@ a {
   display: block;
   border: none;
   font-weight: bold;
-  background: var(--my_gradient);
+  background: var(--my_gradient2);
   color: white;
   padding: 0.25rem 1rem;
   border-radius: 0.5rem;
   width: fit-content;
-  box-shadow: 0 1.125em 1em -1em var(--clr-accent-500);
+  box-shadow: 0 1.125em 1em -1em var(--clr-accent);
 }
 .btn:hover,
 .btn:focus-visible {
@@ -85,7 +85,7 @@ header {
 }
 .sticky {
   background: linear-gradient(45deg, rgb(138, 166, 245), rgb(124, 212, 248));
-  padding: 0.5rem;
+  padding: 0;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 5px 0px;
 }
 .logo {
@@ -93,7 +93,7 @@ header {
   align-items: center;
 }
 .logo span {
-  color: rgb(52, 180, 255);
+  color: var(--clr-accent);
 }
 nav ul,
 .sign-options {
@@ -106,7 +106,7 @@ nav li {
 }
 .sign-options a {
   font-weight: bold;
-  background: var(--my_gradient);
+  background: var(--my_gradient2);
   color: white;
   padding: 0.25rem 1rem;
   border-radius: 0.5rem;
@@ -201,7 +201,7 @@ header.active .bar::after {
 }
 .quote-box {
   width: max(20rem, 30%);
-  background: linear-gradient(45deg, rgb(156, 39, 176), rgb(244, 191, 61));
+  background: var(--my_gradient);
   border-radius: 0.5rem;
   padding: 1rem;
   text-align: center;
@@ -212,10 +212,9 @@ header.active .bar::after {
 .banner-2 {
   background: url("/images/bg/bg-6.jpg") 0% 0% / cover;
   padding: 2rem 1rem;
+  color: #ffffff;
 }
-/* .banner-2 .container {
-  max-width: 1300px;
-} */
+
 .banner-2 .text-content {
   width: min(25rem, 100%);
 }
@@ -238,7 +237,7 @@ header.active .bar::after {
   justify-content: space-between;
 }
 .card {
-  background: linear-gradient(45deg, rgb(156, 39, 176), rgb(244, 191, 61));
+  background: linear-gradient(45deg, #737dff, rgb(229 124 248));
   width: 10rem;
   height: 13rem;
   backdrop-filter: blur(1px);
@@ -347,14 +346,14 @@ header.active .bar::after {
 .swiper-button-next,
 .swiper-button-prev {
   font-size: 3rem;
-  color: black !important;
+  color: #4e87ff !important;
 }
 
 /* Footer section */
 
 footer {
   color: white;
-  background: var(--my_gradient);
+  background: var(--my_gradient2);
 }
 
 .footer-wrapper {
