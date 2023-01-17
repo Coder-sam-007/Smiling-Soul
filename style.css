@@ -67,6 +67,7 @@ a {
   border-radius: 0.5rem;
   width: fit-content;
   box-shadow: 0 1.125em 1em -1em var(--clr-accent);
+  cursor: pointer;
 }
 .btn:hover,
 .btn:focus-visible {
@@ -81,7 +82,7 @@ header {
   width: 100%;
   padding: 1.5rem 0.5rem;
   transition: all 0.3s ease 0s;
-  z-index: 2;
+  z-index: 10;
 }
 .sticky {
   background: linear-gradient(45deg, rgb(138, 166, 245), rgb(124, 212, 248));
@@ -285,6 +286,7 @@ header.active .bar::after {
 .help-section {
   padding: 2rem 1rem;
   background: url(/images/bg/bg-1.jpg) top/cover;
+  position: relative;
 }
 
 .help-section .container {
@@ -317,6 +319,32 @@ header.active .bar::after {
 
 .help-section .btn {
   font-size: 1.5rem;
+}
+
+.popUp {
+  display: none;
+  position: absolute;
+  height: 135%;
+  width: 90%;
+  top: -15%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background: linear-gradient(45deg, #00f7ff, #5656ff);
+  overflow-y: auto;
+  border-radius: 0.5rem;
+  border: 1px solid white;
+  z-index: 2;
+  padding: 2rem;
+  color: black;
+}
+
+.close-btn {
+  position: absolute;
+  right: 2rem;
+  font-size: 2rem;
+  top: 1rem;
+  color: white;
+  cursor: pointer;
 }
 
 /* slider section */
