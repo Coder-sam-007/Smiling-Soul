@@ -60,6 +60,35 @@ const solutions = [
 Today there are lot of competitive exams that students are preparing and take a lot of stress about it. Many students think they have less time for preparation and get depressed. They think about the results and think whether or not they will be able to crack the examination, but we should not think about the results rather should work or focus on the thing that is in our hand that is preparation. We should honestly prepare and leave the rest in the hand of god. Why think about something that is not in our hand. 
 
 Education is not always about taking stress; it is for the upliftment of our mindset so that we will be a better human being and contribute positively to our society. `,
+  ` money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan
+
+ money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan
+
+ money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan money debt loan `,
+  ` family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation
+
+ family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation
+
+ family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation family father-mother relation `,
+  ` aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career 
+
+ aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career 
+
+ aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  aim life-goal ambition career  `,
+  `  relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend 
+
+ relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend 
+
+ relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend relationship gf bf girlfriend `,
+  ` bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  
+
+ bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  
+
+ bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  bullying ragging discrimination  `,
+  ` domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  
+
+ domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape  domestic violence sexual abuse harrashment rape `,
+  `Write your problem specifically`,
 ];
 
 const userInput = document.querySelector("#user-input");
@@ -85,6 +114,49 @@ submit_btn.addEventListener("click", (e) => {
     userProblem.match(/education/gi)
   ) {
     paste_content(0);
+  } else if (
+    userProblem.match(/money/gi) ||
+    userProblem.match(/debt/gi) ||
+    userProblem.match(/loan/gi)
+  ) {
+    paste_content(1);
+  } else if (
+    userProblem.match(/family/gi) ||
+    userProblem.match(/family relation/gi) ||
+    userProblem.match(/family issues/gi)
+  ) {
+    paste_content(2);
+  } else if (
+    userProblem.match(/aim/gi) ||
+    userProblem.match(/life goal/gi) ||
+    userProblem.match(/ambition/gi) ||
+    userProblem.match(/career/gi)
+  ) {
+    paste_content(3);
+  } else if (
+    userProblem.match(/relationship/gi) ||
+    userProblem.match(/gf/gi) ||
+    userProblem.match(/bf/gi) ||
+    userProblem.match(/boyfriend/gi) ||
+    userProblem.match(/girlfriend/)
+  ) {
+    paste_content(4);
+  } else if (
+    userProblem.match(/bullying/gi) ||
+    userProblem.match(/ragging/gi) ||
+    userProblem.match(/discrimination/gi) ||
+    userProblem.match(/rascism/gi)
+  ) {
+    paste_content(5);
+  } else if (
+    userProblem.match(/domestic violence/gi) ||
+    userProblem.match(/sexual abuse/gi) ||
+    userProblem.match(/harrashment/gi) ||
+    userProblem.match(/rape/gi)
+  ) {
+    paste_content(6);
+  } else {
+    paste_content(7);
   }
 });
 
