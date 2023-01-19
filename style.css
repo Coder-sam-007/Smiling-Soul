@@ -205,7 +205,10 @@ header.active .bar::after {
   background: var(--my_gradient);
   border-radius: 0.5rem;
   padding: 1rem;
+  height: 10rem;
   text-align: center;
+  display: grid;
+  place-items: center;
 }
 
 /* banner-2 section (Hobby section) */
@@ -360,9 +363,12 @@ header.active .bar::after {
 }
 
 .swiper-slide {
+  display: grid;
   padding: 1rem;
   background: var(--my_gradient);
   border-radius: 0.5rem;
+  place-items: center;
+  height: 13rem !important;
 }
 
 .swipo {
