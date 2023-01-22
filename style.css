@@ -181,9 +181,9 @@ header.active .bar::after {
 /* banner-1 section */
 
 .banner-1 {
-  flex-wrap: wrap;
-  background: url("/images/bg/bg-2.jpg") 0% 0% / cover;
+  background: url(/images/bg/bg-7.jpg) bottom left;
   margin: 2rem auto;
+  color: white;
 }
 .text-content {
   width: min(35rem, 100%);

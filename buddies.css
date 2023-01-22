@@ -28,9 +28,7 @@
 }
 
 .profile-card img {
-  border-radius: 50%;
-  aspect-ratio: 1;
-  scale: 0.8;
+  scale: 0.9;
   margin-top: -1rem;
 }
 
