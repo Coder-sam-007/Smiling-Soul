@@ -458,6 +458,8 @@ footer .btn {
   border-radius: 0.5rem;
 }
 
+/* Media queries */
+
 @media (max-width: 1185px) {
   .banner-2 .container {
     gap: 3rem;
@@ -549,5 +551,10 @@ footer .btn {
 @media (max-width: 550px) {
   .logo {
     margin-left: 0px;
+  }
+}
+@media (max-width: 383px) {
+  .card-container {
+    justify-content: center;
   }
 }
