@@ -47,6 +47,42 @@ const musicData = [
     artist: "Lorem ipsum dolor sit amet.",
     musicPath: "./assets/music/music-5.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-5.jpg",
+    posterUrl: "./assets/images/poster-5.jpg",
+    title: "Two Two (Telgu)",
+     album: "Hello",
+    year: 2023,
+    artist: "Lorem ipsum dolor sit amet.",
+    musicPath: "./assets/music/music-6.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-5.jpg",
+    posterUrl: "./assets/images/poster-5.jpg",
+    title: "Two Two (Telgu)",
+     album: "Hello",
+    year: 2023,
+    artist: "Lorem ipsum dolor sit amet.",
+    musicPath: "./assets/music/music-7.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-5.jpg",
+    posterUrl: "./assets/images/poster-5.jpg",
+    title: "Two Two (Telgu)",
+     album: "Hello",
+    year: 2023,
+    artist: "Lorem ipsum dolor sit amet.",
+    musicPath: "./assets/music/music-8.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-5.jpg",
+    posterUrl: "./assets/images/poster-5.jpg",
+    title: "Two Two (Telgu)",
+     album: "Hello",
+    year: 2023,
+    artist: "Lorem ipsum dolor sit amet.",
+    musicPath: "./assets/music/music-9.mp3",
+  },
 ];
 
 const addEventOnElements = function (elements, eventType, callback) {
