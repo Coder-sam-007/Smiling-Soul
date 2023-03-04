@@ -5,8 +5,8 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-1.jpg",
     posterUrl: "./assets/images/poster-1.jpg",
-    title: "Arabic Kuthu (Beast)",
-     album: "Hello",
+    title: "Tum Mile",
+     album: ".....",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
     musicPath: "./assets/music/music-1.mp3",
@@ -14,8 +14,8 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-2.jpg",
     posterUrl: "./assets/images/poster-2.jpg",
-    title: "Siyani (Everything for You)",
-     album: "Hello",
+    title: "Mast Magan",
+     album: ".........",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
     musicPath: "./assets/music/music-2.mp3",
@@ -32,7 +32,7 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-4.jpg",
     posterUrl: "./assets/images/poster-4.jpg",
-    title: "Pansori (CokeStudio)",
+    title: "Lag ja Gale",
      album: "Hello",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
@@ -41,7 +41,7 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Two Two (Telgu)",
+    title: "Afreen Afreen",
      album: "Hello",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
