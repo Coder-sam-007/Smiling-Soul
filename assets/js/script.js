@@ -50,7 +50,7 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Two Two (Telgu)",
+    title: "Afreen Afreen",
      album: "Hello",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
@@ -59,7 +59,7 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Two Two (Telgu)",
+    title: "Afreen Afreen",
      album: "Hello",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
@@ -68,7 +68,7 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Two Two (Telgu)",
+    title: "Afreen Afreen",
      album: "Hello",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
@@ -77,7 +77,7 @@ const musicData = [
   {
     backgroundImage: "./assets/images/poster-5.jpg",
     posterUrl: "./assets/images/poster-5.jpg",
-    title: "Two Two (Telgu)",
+    title: "Montare",
      album: "Hello",
     year: 2023,
     artist: "Lorem ipsum dolor sit amet.",
